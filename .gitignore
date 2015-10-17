@@ -10,3 +10,4 @@ cache
 .idea
 vendor
 composer.lock
+/app/config/config.php
