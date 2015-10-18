@@ -11,3 +11,6 @@ cache
 vendor
 composer.lock
 /app/config/config.php
+/public/AdminLTE/documentation
+/public/AdminLTE/build
+/public/AdminLTE/dist
